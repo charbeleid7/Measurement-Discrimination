@@ -76,6 +76,7 @@ The following MATLAB functions are used by the example scripts:
 ## Usage
 
 Clone the repository and open MATLAB:
+Make sure all codes are in the same folder. (there is not path added in the code)
 
 ```bash
 git clone https://github.com/charbeleid/Measurement-Discrimination.git
