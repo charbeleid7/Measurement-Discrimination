@@ -45,7 +45,7 @@ The following MATLAB functions are used by the example scripts:
 
 | Function | Description |
 |:--|:--|
-| `Nchannels_1copy_discriminationexample.m` | Uses **YALMIP** and a semidefinite program (SDP) to compute the optimal success probability of discriminating a set of quantum channels. Input: Choi operators of the channels, and their input/output dimensions. Output: optimal success probability and optimal tester. |
+| `Nchannels_1copy_discriminationexample.m` | Uses **YALMIP** and a semidefinite program (SDP) to compute the optimal success probability of discriminating a set of quantum channels. Input: Choi operators of the channels, and their input/output dimensions. Output: optimal success probability and optimal tester.  (This code was given to me by Jessica Bavaresco as an example and I never rewrote it as it worked very well.) |
 | `Qubit.m` | Given two Bloch angles (*θ*, *φ*) in radians, returns the corresponding pure qubit density matrix. |
 | `MeasChan.m` | Converts a POVM (stored in a tensor variable) into the Choi operator of the corresponding *measure-and-prepare* channel. |
 | `LudIsntChan.m` | Similar to `MeasChan.m`, but constructs the Choi operator for the Lüders instrument — i.e., the *measure-and-prepare* process with access to the post-measurement state. |
