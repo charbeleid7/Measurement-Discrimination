@@ -76,8 +76,15 @@ The following MATLAB functions are used by the example scripts:
 ## Usage
 
 Clone the repository and open MATLAB:
-Make sure all codes are in the same folder. (there is not path added in the code)
+Make sure all codes are in the same folder. (there is no path added in the example)
 
 ```bash
 git clone https://github.com/charbeleid/Measurement-Discrimination.git
 cd Measurement-Discrimination
+```
+
+Then run any example script, e.g.:
+
+```bash
+run('Dichotomic_Error_Detection_Instrument_Advantage.m')
+```
