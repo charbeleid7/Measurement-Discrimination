@@ -70,7 +70,7 @@ If MATLAB cannot load MOSEK due to system security restrictions, temporarily dis
 ```bash
 sudo spctl --master-disable
 ```
-###7. Contact
+## 6. Contact
 
 Charbel Eid
 LIP6, Sorbonne Université — currently at LIG, Université Grenoble Alpes
