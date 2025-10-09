@@ -15,7 +15,7 @@ This repository accompanies the numerical work presented in the paper:
 This repository contains MATLAB scripts and functions for simulating and plotting the **maximum success probabilities** of various quantum measurement discrimination tasks.  
 The examples explore how access to the *post-measurement state* affects the ability to distinguish between quantum measurements.
 
-The codebase is divided into two main parts:
+The codebase contains two kinds of scripts:
 
 - **Example scripts** — run the discrimination tasks and produce plots.
 - **Functions** — perform the underlying quantum information and optimization computations (e.g., POVMs, Choi operators, SDP).
