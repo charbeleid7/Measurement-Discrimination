@@ -88,3 +88,5 @@ Then run any example script, e.g.:
 ```bash
 run('Dichotomic_Error_Detection_Instrument_Advantage.m')
 ```
+
+Then define different POVMs, generate the Choi operators with MeasChan and LudInstChan and run the SDP to optimally discriminate them.
