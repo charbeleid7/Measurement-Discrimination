@@ -5,6 +5,6 @@ authors:
     given-names: Marco Tulio
 cff-version: 1.2.0
 date-released: 2026-02-01
+message: "If you use this code, please cite the associated paper below."
 title: "Measurement-Discrimination"
 repository-code: "https://github.com/charbeleid7/Measurement-Discrimination"
-message: "If you use this code, please cite the associated paper below."
