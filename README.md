@@ -3,7 +3,7 @@
 Examples of MATLAB codes for computing the optimal success probabilities of one-copy minimum-error quantum measurement discrimination tasks using SDP, given access to the post-measurement state and without access to the post measurement state.
 This repository accompanies the numerical work presented in the paper:
 
-> *[TITLE ADD LATER]*  
+> *Post-measurement states are (very) useful for measurement discrimination*  
 > **Charbel Eid**  
 > LIP6, Sorbonne Université — currently at LIG, Université Grenoble Alpes  
 > Contact: [charbelezzateid@gmail.com](mailto:charbelezzateid@gmail.com)
