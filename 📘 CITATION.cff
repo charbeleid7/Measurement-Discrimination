@@ -3,10 +3,14 @@ title: "Measurement-Discrimination"
 version: 1.0.0
 date-released: 2026-02-01
 message: "If you use this code, please cite the associated paper below."
+
 authors:
   - family-names: Eid
     given-names: Charbel
   - family-names: Quintino
     given-names: Marco Tulio
+
 repository-code: "https://github.com/charbeleid7/Measurement-Discrimination"
 license: "Custom license (see LICENSE file)"
+
+doi: 10.48550/arXiv.2602.12258
