@@ -5,7 +5,7 @@ This repository accompanies the numerical work presented in the paper:
 
 > *Post-measurement states are (very) useful for measurement discrimination*  
 > **Charbel Eid**  
-> LIP6, Sorbonne Université — currently at LIG, Université Grenoble Alpes  
+> LIP6, Sorbonne Université  
 > Contact: [charbelezzateid@gmail.com](mailto:charbelezzateid@gmail.com)
 
 ---
